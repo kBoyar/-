@@ -1,3 +1,3 @@
 First project ever.
-Not finished
-C++ beginner level
+Not finished.
+C++ beginner level.
